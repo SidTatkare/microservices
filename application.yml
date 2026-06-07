@@ -9,6 +9,6 @@ eureka:
     
     spring:
   application:
-    name: config-prod
+    name: config-prodUser
   config:
     import: "optional:configserver:http://localhost:8085"
